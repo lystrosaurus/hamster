@@ -1,0 +1,1466 @@
+{
+  "LYCB": {
+    "bankName": "辽阳银行",
+    "shortName": "辽阳银行",
+    "bank": "LYCB",
+    "cardCode": "04192310"
+  },
+  "LYCCB": {
+    "bankName": "洛阳银行",
+    "shortName": "洛阳银行",
+    "bank": "LYCCB",
+    "cardCode": "04184930"
+  },
+  "SJCB": {
+    "bankName": "盛京银行",
+    "shortName": "盛京银行",
+    "bank": "SJCB",
+    "cardCode": "04170000"
+  },
+  "LJCCB": {
+    "bankName": "龙江银行",
+    "shortName": "龙江银行",
+    "bank": "LJCCB",
+    "cardCode": "04162640"
+  },
+  "HKCB": {
+    "bankName": "汉口银行",
+    "shortName": "汉口银行",
+    "bank": "HKCB",
+    "cardCode": "04145210"
+  },
+  "GZBC": {
+    "bankName": "广州银行",
+    "shortName": "广州银行",
+    "bank": "GZBC",
+    "cardCode": "04135810"
+  },
+  "WZCCB": {
+    "bankName": "温州银行",
+    "shortName": "温州银行",
+    "bank": "WZCCB",
+    "cardCode": "04123330"
+  },
+  "JZCB": {
+    "bankName": "焦作市商业银行",
+    "shortName": "焦作市商业银行",
+    "bank": "JZCB",
+    "cardCode": "04115010"
+  },
+  "NBCB": {
+    "bankName": "宁波银行",
+    "shortName": "宁波银行",
+    "bank": "NBCB",
+    "cardCode": "04083320"
+  },
+  "JSCCB": {
+    "bankName": "江苏银行",
+    "shortName": "江苏银行",
+    "bank": "JSCCB",
+    "cardCode": "04073140"
+  },
+  "JLCB": {
+    "bankName": "吉林银行",
+    "shortName": "吉林银行",
+    "bank": "JLCB",
+    "cardCode": "04062410"
+  },
+  "FHXCB": {
+    "bankName": "福建海峡银行",
+    "shortName": "福建海峡银行",
+    "bank": "FHXCB",
+    "cardCode": "04053910"
+  },
+  "BOB": {
+    "bankName": "北京银行",
+    "shortName": "北京银行",
+    "bank": "BOB",
+    "cardCode": "04031000"
+  },
+  "XMCCB": {
+    "bankName": "厦门银行",
+    "shortName": "厦门银行",
+    "bank": "XMCCB",
+    "cardCode": "04023930"
+  },
+  "SHCB": {
+    "bankName": "上海银行",
+    "shortName": "上海银行",
+    "bank": "SHCB",
+    "cardCode": "04010000"
+  },
+  "IBK": {
+    "bankName": "企业银行（中国）有限公司",
+    "shortName": "企业银行",
+    "bank": "IBK",
+    "cardCode": "03360000"
+  },
+  "DAHSB": {
+    "bankName": "大新银行（中国）有限公司",
+    "shortName": "大新银行",
+    "bank": "DAHSB",
+    "cardCode": "03350000"
+  },
+  "UOB": {
+    "bankName": "大华银行（中国）有限公司",
+    "shortName": "大华银行",
+    "bank": "UOB",
+    "cardCode": "03340000"
+  },
+  "SG": {
+    "bankName": "法国兴业银行(中国)有限公司",
+    "shortName": "法国兴业银行(中国)",
+    "bank": "SG",
+    "cardCode": "03330001"
+  },
+  "NCB": {
+    "bankName": "南洋商业银行（中国）有限公司",
+    "shortName": "南洋商业银行（中国）",
+    "bank": "NCB",
+    "cardCode": "03320000"
+  },
+  "WHBL": {
+    "bankName": "永亨银行（中国）有限公司",
+    "shortName": "永亨银行（中国）",
+    "bank": "WHBL",
+    "cardCode": "03310000"
+  },
+  "OCCB": {
+    "bankName": "华侨银行（中国）有限公司",
+    "shortName": "华侨银行（中国）",
+    "bank": "OCCB",
+    "cardCode": "03300000"
+  },
+  "HanaBank": {
+    "bankName": "韩亚银行（中国）有限公司",
+    "shortName": "韩亚银行（中国）",
+    "bank": "HanaBank",
+    "cardCode": "03290000"
+  },
+  "SFG": {
+    "bankName": "新韩银行（中国）有限公司",
+    "shortName": "新韩银行（中国）",
+    "bank": "SFG",
+    "cardCode": "03280000"
+  },
+  "QYMGC": {
+    "bankName": "友利银行(中国)有限公司",
+    "shortName": "友利银行(中国)",
+    "bank": "QYMGC",
+    "cardCode": "03270000"
+  },
+  "HSCCB": {
+    "bankName": "恒生银行（中国）有限公司",
+    "shortName": "恒生银行（中国）",
+    "bank": "HSCCB",
+    "cardCode": "03260000"
+  },
+  "DBS": {
+    "bankName": "星展银行（中国）有限公司",
+    "shortName": "星展银行（中国）",
+    "bank": "DBS",
+    "cardCode": "03240000"
+  },
+  "SC": {
+    "bankName": "渣打银行（中国）有限公司",
+    "shortName": "渣打银行（中国）",
+    "bank": "SC",
+    "cardCode": "03220000"
+  },
+  "HFBC": {
+    "bankName": "汇丰银行（中国）有限公司",
+    "shortName": "汇丰银行（中国）",
+    "bank": "HFBC",
+    "cardCode": "03210000"
+  },
+  "BEA": {
+    "bankName": "东亚银行（中国）有限公司",
+    "shortName": "东亚银行（中国）",
+    "bank": "BEA",
+    "cardCode": "03200000"
+  },
+  "CiTiBank": {
+    "bankName": "花旗银行（中国）有限公司",
+    "shortName": "花旗银行（中国）",
+    "bank": "CiTiBank",
+    "cardCode": "03190001"
+  },
+  "BHBank": {
+    "bankName": "渤海银行",
+    "shortName": "渤海银行",
+    "bank": "BHBank",
+    "cardCode": "03170000"
+  },
+  "CZBANK": {
+    "bankName": "浙商银行",
+    "shortName": "浙商银行",
+    "bank": "CZBANK",
+    "cardCode": "03163370"
+  },
+  "YANTAIBANK": {
+    "bankName": "烟台银行",
+    "shortName": "烟台银行",
+    "bank": "YANTAIBANK",
+    "cardCode": "03134560"
+  },
+  "HFBANK": {
+    "bankName": "恒丰银行",
+    "shortName": "恒丰银行",
+    "bank": "HFBANK",
+    "cardCode": "03110000"
+  },
+  "SPDB": {
+    "bankName": "浦发银行",
+    "shortName": "浦发银行",
+    "bank": "SPDB",
+    "cardCode": "03100000"
+  },
+  "CIB": {
+    "bankName": "兴业银行",
+    "shortName": "兴业银行",
+    "bank": "CIB",
+    "cardCode": "03090000"
+  },
+  "CMB": {
+    "bankName": "招商银行",
+    "shortName": "招商银行",
+    "bank": "CMB",
+    "cardCode": "03080000"
+  },
+  "PINGANBANK": {
+    "bankName": "平安银行",
+    "shortName": "平安银行",
+    "bank": "PINGANBANK",
+    "cardCode": "03070000"
+  },
+  "CGB": {
+    "bankName": "CHINAGUANGFABANK,MACAU",
+    "shortName": "CHINAGUANGFABANK,MACAU",
+    "bank": "CGB",
+    "cardCode": "03060446"
+  },
+  "CGBC": {
+    "bankName": "广发银行",
+    "shortName": "广发银行",
+    "bank": "CGBC",
+    "cardCode": "03060000"
+  },
+  "XJKCCB": {
+    "bankName": "库尔勒市商业银行",
+    "shortName": "库尔勒市商业银行",
+    "bank": "XJKCCB",
+    "cardCode": "05658880"
+  },
+  "CMBC": {
+    "bankName": "民生银行",
+    "shortName": "民生银行",
+    "bank": "CMBC",
+    "cardCode": "03050000"
+  },
+  "HXB": {
+    "bankName": "华夏银行",
+    "shortName": "华夏银行",
+    "bank": "HXB",
+    "cardCode": "03040000"
+  },
+  "CEB": {
+    "bankName": "光大银行",
+    "shortName": "光大银行",
+    "bank": "CEB",
+    "cardCode": "03030000"
+  },
+  "Citicbank": {
+    "bankName": "中信银行",
+    "shortName": "中信银行",
+    "bank": "Citicbank",
+    "cardCode": "03020000"
+  },
+  "BCM": {
+    "bankName": "交通银行",
+    "shortName": "交通银行",
+    "bank": "BCM",
+    "cardCode": "03010000"
+  },
+  "LLCBank": {
+    "bankName": "LLCBank",
+    "shortName": "(Russia)",
+    "bank": "LLCBank",
+    "cardCode": "2017-03-28"
+  },
+  "CCB": {
+    "bankName": "中国建设银行",
+    "shortName": "中国建设银行",
+    "bank": "CCB",
+    "cardCode": "01050001"
+  },
+  "CCB1": {
+    "bankName": "建设银行",
+    "shortName": "建设银行",
+    "bank": "CCB1",
+    "cardCode": "01050000"
+  },
+  "BOC": {
+    "bankName": "中国银行",
+    "shortName": "中国银行",
+    "bank": "BOC",
+    "cardCode": "01040000"
+  },
+  "ABC1": {
+    "bankName": "宁波市农业银行",
+    "shortName": "宁波市农业银行",
+    "bank": "ABC1",
+    "cardCode": "01033320"
+  },
+  "ABC": {
+    "bankName": "农业银行",
+    "shortName": "农业银行",
+    "bank": "ABC",
+    "cardCode": "01030000"
+  },
+  "ICBCM": {
+    "bankName": "中国工商银行米兰分行",
+    "shortName": "中国工商银行米兰分行",
+    "bank": "ICBCM",
+    "cardCode": "01020380"
+  },
+  "ICBCC": {
+    "bankName": "中国工商银行加拿大分行",
+    "shortName": "中国工商银行加拿大分行",
+    "bank": "ICBCC",
+    "cardCode": "01020124"
+  },
+  "HSBC": {
+    "bankName": "衡水银行",
+    "shortName": "衡水银行",
+    "bank": "HSBC",
+    "cardCode": "05611480"
+  },
+  "ICBC": {
+    "bankName": "工商银行",
+    "shortName": "工商银行",
+    "bank": "ICBC",
+    "cardCode": "01020000"
+  },
+  "PSBC": {
+    "bankName": "邮政储蓄银行",
+    "shortName": "邮政储蓄银行",
+    "bank": "PSBC",
+    "cardCode": "01009999"
+  },
+  "POST": {
+    "bankName": "邮政储蓄",
+    "shortName": "邮政储蓄",
+    "bank": "POST",
+    "cardCode": "01000000"
+  },
+  "JZBC": {
+    "bankName": "晋中市商业银行",
+    "shortName": "晋中市商业银行",
+    "bank": "JZBC",
+    "cardCode": "05591750"
+  },
+  "LSZSH": {
+    "bankName": "凉山州商业银行",
+    "shortName": "凉山州商业银行",
+    "bank": "LSZSH",
+    "cardCode": "05556840"
+  },
+  "SNCCB": {
+    "bankName": "遂宁市商业银行",
+    "shortName": "遂宁市商业银行",
+    "bank": "SNCCB",
+    "cardCode": "05516620"
+  },
+  "KLB": {
+    "bankName": "昆仑银行",
+    "shortName": "昆仑银行",
+    "bank": "KLB",
+    "cardCode": "05478820"
+  },
+  "CCQTGB": {
+    "bankName": "重庆三峡银行",
+    "shortName": "重庆三峡银行",
+    "bank": "CCQTGB",
+    "cardCode": "05426900"
+  },
+  "TLBC": {
+    "bankName": "铁岭银行",
+    "shortName": "铁岭银行",
+    "bank": "TLBC",
+    "cardCode": "05392330"
+  },
+  "BOHB": {
+    "bankName": "鹤壁银行",
+    "shortName": "鹤壁银行",
+    "bank": "BOHB",
+    "cardCode": "05354970"
+  },
+  "WHCB": {
+    "bankName": "乌海银行",
+    "shortName": "乌海银行",
+    "bank": "WHCB",
+    "cardCode": "05311930"
+  },
+  "TACCB": {
+    "bankName": "泰安市商业银行",
+    "shortName": "泰安市商业银行",
+    "bank": "TACCB",
+    "cardCode": "05284630"
+  },
+  "YXCCB": {
+    "bankName": "玉溪市商业银行",
+    "shortName": "玉溪市商业银行",
+    "bank": "YXCCB",
+    "cardCode": "05247410"
+  },
+  "CDBC": {
+    "bankName": "承德银行",
+    "shortName": "承德银行",
+    "bank": "CDBC",
+    "cardCode": "05131410"
+  },
+  "QJCCB": {
+    "bankName": "曲靖市商业银行",
+    "shortName": "曲靖市商业银行",
+    "bank": "QJCCB",
+    "cardCode": "05027360"
+  },
+  "GWBC": {
+    "bankName": "德阳银行",
+    "shortName": "德阳银行",
+    "bank": "GWBC",
+    "cardCode": "04986580"
+  },
+  "LZCCB": {
+    "bankName": "柳州银行",
+    "shortName": "柳州银行",
+    "bank": "LZCCB",
+    "cardCode": "04956140"
+  },
+  "ZJKCCB": {
+    "bankName": "张家口市商业银行",
+    "shortName": "张家口市商业银行",
+    "bank": "ZJKCCB",
+    "cardCode": "04901380"
+  },
+  "LZSCB": {
+    "bankName": "泸州市商业银行",
+    "shortName": "泸州市商业银行",
+    "bank": "LZSCB",
+    "cardCode": "04866570"
+  },
+  "WHCCB": {
+    "bankName": "威海市商业银行",
+    "shortName": "威海市商业银行",
+    "bank": "WHCCB",
+    "cardCode": "04814650"
+  },
+  "HZCCB": {
+    "bankName": "湖州银行",
+    "shortName": "湖州银行",
+    "bank": "HZCCB",
+    "cardCode": "04753360"
+  },
+  "LCCB": {
+    "bankName": "廊坊银行",
+    "shortName": "廊坊银行",
+    "bank": "LCCB",
+    "cardCode": "04721460"
+  },
+  "FDCB": {
+    "bankName": "富滇银行",
+    "shortName": "富滇银行",
+    "bank": "FDCB",
+    "cardCode": "04667310"
+  },
+  "QZCCB": {
+    "bankName": "泉州银行",
+    "shortName": "泉州银行",
+    "bank": "QZCCB",
+    "cardCode": "04643970"
+  },
+  "TZCB": {
+    "bankName": "台州银行",
+    "shortName": "台州银行",
+    "bank": "TZCB",
+    "cardCode": "04593450"
+  },
+  "ASCB": {
+    "bankName": "鞍山银行",
+    "shortName": "鞍山银行",
+    "bank": "ASCB",
+    "cardCode": "04562230"
+  },
+  "BQD": {
+    "bankName": "青岛银行",
+    "shortName": "青岛银行",
+    "bank": "BQD",
+    "cardCode": "04504520"
+  },
+  "LZCB": {
+    "bankName": "兰州银行",
+    "shortName": "兰州银行",
+    "bank": "LZCB",
+    "cardCode": "04478210"
+  },
+  "GYB": {
+    "bankName": "贵阳银行",
+    "shortName": "贵阳银行",
+    "bank": "GYB",
+    "cardCode": "04437010"
+  },
+  "CQCB": {
+    "bankName": "重庆银行",
+    "shortName": "重庆银行",
+    "bank": "CQCB",
+    "cardCode": "04416530"
+  },
+  "QSCB": {
+    "bankName": "齐商银行",
+    "shortName": "齐商银行",
+    "bank": "QSCB",
+    "cardCode": "04384530"
+  },
+  "ZZCB": {
+    "bankName": "郑州银行",
+    "shortName": "郑州银行",
+    "bank": "ZZCB",
+    "cardCode": "04354910"
+  },
+  "HBCB": {
+    "bankName": "湖北银行",
+    "shortName": "湖北银行",
+    "bank": "HBCB",
+    "cardCode": "04325210"
+  },
+  "BOCD": {
+    "bankName": "成都银行",
+    "shortName": "成都银行",
+    "bank": "BOCD",
+    "cardCode": "04296510"
+  },
+  "UCCB": {
+    "bankName": "乌鲁木齐市商业银行",
+    "shortName": "乌鲁木齐市商业银行",
+    "bank": "UCCB",
+    "cardCode": "04270001"
+  },
+  "HBB": {
+    "bankName": "河北银行",
+    "shortName": "河北银行",
+    "bank": "HBB",
+    "cardCode": "04221210"
+  },
+  "LSCCB": {
+    "bankName": "乐山市商业银行",
+    "shortName": "乐山市商业银行",
+    "bank": "LSCCB",
+    "cardCode": "05406650"
+  },
+  "CJCCB": {
+    "bankName": "江苏长江商业银行",
+    "shortName": "江苏长江商业银行",
+    "bank": "CJCCB",
+    "cardCode": "04933120"
+  },
+  "QHDB": {
+    "bankName": "秦皇岛银行",
+    "shortName": "秦皇岛银行",
+    "bank": "QHDB",
+    "cardCode": "04571260"
+  },
+  "FSCB": {
+    "bankName": "抚顺银行",
+    "shortName": "抚顺银行",
+    "bank": "FSCB",
+    "cardCode": "04302240"
+  },
+  "AHRCU": {
+    "bankName": "安徽省农村信用社联合社",
+    "shortName": "安徽省农村信用社联合社",
+    "bank": "AHRCU",
+    "cardCode": "14473600"
+  },
+  "QLCB": {
+    "bankName": "齐鲁银行",
+    "shortName": "齐鲁银行",
+    "bank": "QLCB",
+    "cardCode": "64094510"
+  },
+  "DRCB": {
+    "bankName": "东莞农村商业银行",
+    "shortName": "东莞农村商业银行",
+    "bank": "DRCB",
+    "cardCode": "14156020"
+  },
+  "CSRCB": {
+    "bankName": "常熟农村商业银行",
+    "shortName": "常熟农村商业银行",
+    "bank": "CSRCB",
+    "cardCode": "14030001"
+  },
+  "HRXJCB": {
+    "bankName": "华融湘江银行",
+    "shortName": "华融湘江银行",
+    "bank": "HRXJCB",
+    "cardCode": "05705500"
+  },
+  "SHCOM": {
+    "bankName": "上海商业银行",
+    "shortName": "上海商业银行",
+    "bank": "SHCOM",
+    "cardCode": "25090344"
+  },
+  "ZJTLCB": {
+    "bankName": "浙江泰隆商业银行",
+    "shortName": "浙江泰隆商业银行",
+    "bank": "ZJTLCB",
+    "cardCode": "64733450"
+  },
+  "CCBI": {
+    "bankName": "中信银行国际（中国）有限公司",
+    "shortName": "中信银行国际（中国）有限公司",
+    "bank": "CCBI",
+    "cardCode": "25160344"
+  },
+  "HLJRCC": {
+    "bankName": "黑龙江省农村信用社联合社",
+    "shortName": "黑龙江省农村信用社联合社",
+    "bank": "HLJRCC",
+    "cardCode": "14572600"
+  },
+  "SCRCC": {
+    "bankName": "四川省农村信用社联合社",
+    "shortName": "四川省农村信用社联合社",
+    "bank": "SCRCC",
+    "cardCode": "14526500"
+  },
+  "YRCB": {
+    "bankName": "宁夏黄河农村商业银行",
+    "shortName": "宁夏黄河农村商业银行",
+    "bank": "YRCB",
+    "cardCode": "14468700"
+  },
+  "HEBNX": {
+    "bankName": "河北省农村信用社联合社",
+    "shortName": "河北省农村信用社联合社",
+    "bank": "HEBNX",
+    "cardCode": "14411200"
+  },
+  "GZNX": {
+    "bankName": "贵州省农村信用社联合社",
+    "shortName": "贵州省农村信用社联合社",
+    "bank": "GZNX",
+    "cardCode": "14367000"
+  },
+  "ZJNX": {
+    "bankName": "浙江省农村信用社联合社",
+    "shortName": "浙江省农村信用社联合社",
+    "bank": "ZJNX",
+    "cardCode": "14293300"
+  },
+  "GDRC": {
+    "bankName": "佛山市三水区农村信用合作社",
+    "shortName": "佛山市三水区农村信用合作社",
+    "bank": "GDRC",
+    "cardCode": "14215881"
+  },
+  "QDNX": {
+    "bankName": "青岛市农村信用合作社联合社",
+    "shortName": "青岛市农村信用合作社联合社",
+    "bank": "QDNX",
+    "cardCode": "14144520"
+  },
+  "WRCB": {
+    "bankName": "武汉农村商业银行",
+    "shortName": "武汉农村商业银行",
+    "bank": "WRCB",
+    "cardCode": "14105210"
+  },
+  "NRCB": {
+    "bankName": "广东南海农村商业银行",
+    "shortName": "广东南海农村商业银行",
+    "bank": "NRCB",
+    "cardCode": "14075882"
+  },
+  "BXCCB": {
+    "bankName": "本溪市商业银行",
+    "shortName": "本溪市商业银行",
+    "bank": "BXCCB",
+    "cardCode": "05832250"
+  },
+  "GHCB": {
+    "bankName": "广东华兴银行",
+    "shortName": "广东华兴银行",
+    "bank": "GHCB",
+    "cardCode": "05785800"
+  },
+  "JDZB": {
+    "bankName": "景德镇市商业银行",
+    "shortName": "景德镇市商业银行",
+    "bank": "JDZB",
+    "cardCode": "05734220"
+  },
+  "SQCB": {
+    "bankName": "商丘银行",
+    "shortName": "商丘银行",
+    "bank": "SQCB",
+    "cardCode": "05675060"
+  },
+  "YQCCB": {
+    "bankName": "阳泉市商业银行",
+    "shortName": "阳泉市商业银行",
+    "bank": "YQCCB",
+    "cardCode": "05631650"
+  },
+  "DZCCB": {
+    "bankName": "达州市商业银行",
+    "shortName": "达州市商业银行",
+    "bank": "DZCCB",
+    "cardCode": "05576750"
+  },
+  "NDHB": {
+    "bankName": "宁波东海银行",
+    "shortName": "宁波东海银行",
+    "bank": "NDHB",
+    "cardCode": "05503320"
+  },
+  "SZSB": {
+    "bankName": "石嘴山银行",
+    "shortName": "石嘴山银行",
+    "bank": "SZSB",
+    "cardCode": "05438720"
+  },
+  "ORDOS": {
+    "bankName": "鄂尔多斯银行",
+    "shortName": "鄂尔多斯银行",
+    "bank": "ORDOS",
+    "cardCode": "05342050"
+  },
+  "DYCCB": {
+    "bankName": "东营银行",
+    "shortName": "东营银行",
+    "bank": "DYCCB",
+    "cardCode": "05274550"
+  },
+  "HDCB": {
+    "bankName": "邯郸银行",
+    "shortName": "邯郸银行",
+    "bank": "HDCB",
+    "cardCode": "05171270"
+  },
+  "JCCB": {
+    "bankName": "晋城银行",
+    "shortName": "晋城银行",
+    "bank": "JCCB",
+    "cardCode": "05031680"
+  },
+  "LSBC": {
+    "bankName": "莱商银行",
+    "shortName": "莱商银行",
+    "bank": "LSBC",
+    "cardCode": "04974634"
+  },
+  "SMXB": {
+    "bankName": "三门峡银行",
+    "shortName": "三门峡银行",
+    "bank": "SMXB",
+    "cardCode": "04885050"
+  },
+  "PZCCB": {
+    "bankName": "攀枝花市商业银行",
+    "shortName": "攀枝花市商业银行",
+    "bank": "PZCCB",
+    "cardCode": "04836560"
+  },
+  "ATOBO": {
+    "bankName": "泰隆城市信用社",
+    "shortName": "泰隆城市信用社",
+    "bank": "ATOBO",
+    "cardCode": "04733450"
+  },
+  "GZCCB": {
+    "bankName": "赣州银行",
+    "shortName": "赣州银行",
+    "bank": "GZCCB",
+    "cardCode": "04634280"
+  },
+  "RZCCB": {
+    "bankName": "日照银行",
+    "shortName": "日照银行",
+    "bank": "RZCCB",
+    "cardCode": "04554770"
+  },
+  "BCCB": {
+    "bankName": "南昌银行",
+    "shortName": "南昌银行",
+    "bank": "BCCB",
+    "cardCode": "04484210"
+  },
+  "HSCB": {
+    "bankName": "徽商银行",
+    "shortName": "徽商银行",
+    "bank": "HSCB",
+    "cardCode": "04403600"
+  },
+  "NXCB": {
+    "bankName": "宁夏银行",
+    "shortName": "宁夏银行",
+    "bank": "NXCB",
+    "cardCode": "04360010"
+  },
+  "LSCB": {
+    "bankName": "临商银行",
+    "shortName": "临商银行",
+    "bank": "LSCB",
+    "cardCode": "04314730"
+  },
+  "NJCB": {
+    "bankName": "南京银行",
+    "shortName": "南京银行",
+    "bank": "NJCB",
+    "cardCode": "04240001"
+  },
+  "LFRCC": {
+    "bankName": "临汾市尧都区农村信用合作联社",
+    "shortName": "临汾市尧都区农村信用合作联社",
+    "bank": "LFRCC",
+    "cardCode": "65341770"
+  },
+  "WFCCB": {
+    "bankName": "潍坊银行",
+    "shortName": "潍坊银行",
+    "bank": "WFCCB",
+    "cardCode": "64624580"
+  },
+  "CYCB": {
+    "bankName": "集友银行",
+    "shortName": "集友银行",
+    "bank": "CYCB",
+    "cardCode": "25210344"
+  },
+  "CHCB": {
+    "bankName": "创兴银行有限公司",
+    "shortName": "创兴银行有限公司",
+    "bank": "CHCB",
+    "cardCode": "25170344"
+  },
+  "WLCB": {
+    "bankName": "永隆银行",
+    "shortName": "永隆银行",
+    "bank": "WLCB",
+    "cardCode": "25100344"
+  },
+  "DBSH": {
+    "bankName": "星展银行（香港）有限公司",
+    "shortName": "星展银行（香港）有限公司",
+    "bank": "DBSH",
+    "cardCode": "25080344"
+  },
+  "UB": {
+    "bankName": "海口联合农村商业银行",
+    "shortName": "海口联合农村商业银行",
+    "bank": "UB",
+    "cardCode": "14616410"
+  },
+  "JNCB": {
+    "bankName": "江南农村商业银行",
+    "shortName": "江南农村商业银行",
+    "bank": "JNCB",
+    "cardCode": "14603040"
+  },
+  "TJBHB": {
+    "bankName": "天津滨海农村商业银行",
+    "shortName": "天津滨海农村商业银行",
+    "bank": "TJBHB",
+    "cardCode": "14561100"
+  },
+  "SXRCC": {
+    "bankName": "山西省农村信用社联合社",
+    "shortName": "山西省农村信用社联合社",
+    "bank": "SXRCC",
+    "cardCode": "14551600"
+  },
+  "LNRCC": {
+    "bankName": "辽宁省农村信用社联合社",
+    "shortName": "辽宁省农村信用社联合社",
+    "bank": "LNRCC",
+    "cardCode": "14540001"
+  },
+  "GSRCC": {
+    "bankName": "甘肃省农村信用社联合社",
+    "shortName": "甘肃省农村信用社联合社",
+    "bank": "GSRCC",
+    "cardCode": "14538200"
+  },
+  "NMRCC": {
+    "bankName": "内蒙古自治区农村信用社联合社",
+    "shortName": "内蒙古自治区农村信用社联合社",
+    "bank": "NMRCC",
+    "cardCode": "14511900"
+  },
+  "GDRCC": {
+    "bankName": "广东省农村信用社联合社",
+    "shortName": "广东省农村信用社联合社",
+    "bank": "GDRCC",
+    "cardCode": "14505800"
+  },
+  "QHRCC": {
+    "bankName": "青海省农村信用社联合社",
+    "shortName": "青海省农村信用社联合社",
+    "bank": "QHRCC",
+    "cardCode": "14498500"
+  },
+  "HNRCC": {
+    "bankName": "海南省农村信用社联合社",
+    "shortName": "海南省农村信用社联合社",
+    "bank": "HNRCC",
+    "cardCode": "14486400"
+  },
+  "JLRCC": {
+    "bankName": "吉林省农村信用社联合社",
+    "shortName": "吉林省农村信用社联合社",
+    "bank": "JLRCC",
+    "cardCode": "14452400"
+  },
+  "XJRCC": {
+    "bankName": "新疆维吾尔自治区农村信用社联合社",
+    "shortName": "新疆维吾尔自治区农村信用社联合社",
+    "bank": "XJRCC",
+    "cardCode": "14448800"
+  },
+  "GZZRCC": {
+    "bankName": "广西壮族自治区农村信用社联合社",
+    "shortName": "广西壮族自治区农村信用社联合社",
+    "bank": "GZZRCC",
+    "cardCode": "14436100"
+  },
+  "SXCC": {
+    "bankName": "陕西省农村信用社联合社",
+    "shortName": "陕西省农村信用社联合社",
+    "bank": "SXCC",
+    "cardCode": "14427900"
+  },
+  "HNRCB": {
+    "bankName": "河南省农村信用社联合社",
+    "shortName": "河南省农村信用社联合社",
+    "bank": "HNRCB",
+    "cardCode": "14404900"
+  },
+  "JXRCC": {
+    "bankName": "江西省农村信用社联合社",
+    "shortName": "江西省农村信用社联合社",
+    "bank": "JXRCC",
+    "cardCode": "14394200"
+  },
+  "HNRC": {
+    "bankName": "湖南省农村信用社联合社",
+    "shortName": "湖南省农村信用社联合社",
+    "bank": "HNRC",
+    "cardCode": "14385500"
+  },
+  "WXRCC": {
+    "bankName": "无锡农村商业银行",
+    "shortName": "无锡农村商业银行",
+    "bank": "WXRCC",
+    "cardCode": "14373020"
+  },
+  "RDRCC": {
+    "bankName": "尧都区农村信用合作社联社",
+    "shortName": "尧都区农村信用合作社联社",
+    "bank": "RDRCC",
+    "cardCode": "14341770"
+  },
+  "TCRCB": {
+    "bankName": "太仓农村商业银行",
+    "shortName": "太仓农村商业银行",
+    "bank": "TCRCB",
+    "cardCode": "14333051"
+  },
+  "ZNSB": {
+    "bankName": "珠海农村商业银行",
+    "shortName": "珠海农村商业银行",
+    "bank": "ZNSB",
+    "cardCode": "14315850"
+  },
+  "SZCB": {
+    "bankName": "苏州银行",
+    "shortName": "苏州银行",
+    "bank": "SZCB",
+    "cardCode": "14303050"
+  },
+  "WJRCB": {
+    "bankName": "吴江农村商业银行",
+    "shortName": "吴江农村商业银行",
+    "bank": "WJRCB",
+    "cardCode": "14283054"
+  },
+  "JSRCB": {
+    "bankName": "江苏省农村信用社联合社",
+    "shortName": "江苏省农村信用社联合社",
+    "bank": "JSRCB",
+    "cardCode": "14243000"
+  },
+  "CDRCB": {
+    "bankName": "成都农商银行",
+    "shortName": "成都农商银行",
+    "bank": "CDRCB",
+    "cardCode": "14226510"
+  },
+  "BEEB": {
+    "bankName": "宁波鄞州农村合作银行(鄞州银行)",
+    "shortName": "宁波鄞州农村合作银行(鄞州银行)",
+    "bank": "BEEB",
+    "cardCode": "14203320"
+  },
+  "TRCB": {
+    "bankName": "天津农村商业银行",
+    "shortName": "天津农村商业银行",
+    "bank": "TRCB",
+    "cardCode": "14191100"
+  },
+  "BJRCB": {
+    "bankName": "北京农村商业银行",
+    "shortName": "北京农村商业银行",
+    "bank": "BJRCB",
+    "cardCode": "14181000"
+  },
+  "FJRCB": {
+    "bankName": "福建省农村信用社联合社",
+    "shortName": "福建省农村信用社联合社",
+    "bank": "FJRCB",
+    "cardCode": "14173900"
+  },
+  "ZRCB": {
+    "bankName": "张家港农村商业银行",
+    "shortName": "张家港农村商业银行",
+    "bank": "ZRCB",
+    "cardCode": "14163056"
+  },
+  "SDRCB": {
+    "bankName": "山东省农村信用社联合社",
+    "shortName": "山东省农村信用社联合社",
+    "bank": "SDRCB",
+    "cardCode": "14144500"
+  },
+  "CQRCB": {
+    "bankName": "重庆农村商业银行",
+    "shortName": "重庆农村商业银行",
+    "bank": "CQRCB",
+    "cardCode": "14136530"
+  },
+  "JYCB": {
+    "bankName": "江阴农村商业银行",
+    "shortName": "江阴农村商业银行",
+    "bank": "JYCB",
+    "cardCode": "14123020"
+  },
+  "XZRCB": {
+    "bankName": "徐州市郊农村信用合作联社",
+    "shortName": "徐州市郊农村信用合作联社",
+    "bank": "XZRCB",
+    "cardCode": "14113030"
+  },
+  "HBRCB": {
+    "bankName": "湖北省农村信用社联合社",
+    "shortName": "湖北省农村信用社联合社",
+    "bank": "HBRCB",
+    "cardCode": "14105200"
+  },
+  "YNRCB": {
+    "bankName": "云南省农村信用社联合社",
+    "shortName": "云南省农村信用社联合社",
+    "bank": "YNRCB",
+    "cardCode": "14097310"
+  },
+  "GSDCB": {
+    "bankName": "广东顺德农村商业银行",
+    "shortName": "广东顺德农村商业银行",
+    "bank": "GSDCB",
+    "cardCode": "14085883"
+  },
+  "GRCB": {
+    "bankName": "广州农村商业银行",
+    "shortName": "广州农村商业银行",
+    "bank": "GRCB",
+    "cardCode": "14055810"
+  },
+  "SRCB": {
+    "bankName": "深圳农村商业银行",
+    "shortName": "深圳农村商业银行",
+    "bank": "SRCB",
+    "cardCode": "14045840"
+  },
+  "KSRCB": {
+    "bankName": "昆山农村商业银行",
+    "shortName": "昆山农村商业银行",
+    "bank": "KSRCB",
+    "cardCode": "14023052"
+  },
+  "SHRCB": {
+    "bankName": "上海农商银行",
+    "shortName": "上海农商银行",
+    "bank": "SHRCB",
+    "cardCode": "14012900"
+  },
+  "ZZBC": {
+    "bankName": "枣庄银行",
+    "shortName": "枣庄银行",
+    "bank": "ZZBC",
+    "cardCode": "05824540"
+  },
+  "NSCB": {
+    "bankName": "宁波通商银行",
+    "shortName": "宁波通商银行",
+    "bank": "NSCB",
+    "cardCode": "05803320"
+  },
+  "PYYH": {
+    "bankName": "濮阳银行",
+    "shortName": "濮阳银行",
+    "bank": "PYYH",
+    "cardCode": "05795020"
+  },
+  "BHHB": {
+    "bankName": "新疆汇和银行",
+    "shortName": "新疆汇和银行",
+    "bank": "BHHB",
+    "cardCode": "05778981"
+  },
+  "XZCB": {
+    "bankName": "西藏银行",
+    "shortName": "西藏银行",
+    "bank": "XZCB",
+    "cardCode": "05767700"
+  },
+  "HMCCB": {
+    "bankName": "哈密市商业银行",
+    "shortName": "哈密市商业银行",
+    "bank": "HMCCB",
+    "cardCode": "05748840"
+  },
+  "YKYCB": {
+    "bankName": "营口沿海银行",
+    "shortName": "营口沿海银行",
+    "bank": "YKYCB",
+    "cardCode": "05722280"
+  },
+  "XYCB": {
+    "bankName": "信阳银行",
+    "shortName": "信阳银行",
+    "bank": "XYCB",
+    "cardCode": "05695150"
+  },
+  "AYCB": {
+    "bankName": "安阳银行",
+    "shortName": "安阳银行",
+    "bank": "AYCB",
+    "cardCode": "05684960"
+  },
+  "YACCB": {
+    "bankName": "雅安市商业银行",
+    "shortName": "雅安市商业银行",
+    "bank": "YACCB",
+    "cardCode": "05666770"
+  },
+  "YBCCB": {
+    "bankName": "宜宾市商业银行",
+    "shortName": "宜宾市商业银行",
+    "bank": "YBCCB",
+    "cardCode": "05646710"
+  },
+  "ZKCB": {
+    "bankName": "周口银行",
+    "shortName": "周口银行",
+    "bank": "ZKCB",
+    "cardCode": "05625080"
+  },
+  "ZMCCB": {
+    "bankName": "驻马店银行",
+    "shortName": "驻马店银行",
+    "bank": "ZMCCB",
+    "cardCode": "05605110"
+  },
+  "XXCCB": {
+    "bankName": "新乡银行",
+    "shortName": "新乡银行",
+    "bank": "XXCCB",
+    "cardCode": "05584980"
+  },
+  "NHCB": {
+    "bankName": "漯河银行",
+    "shortName": "漯河银行",
+    "bank": "NHCB",
+    "cardCode": "05565040"
+  },
+  "XTCCB": {
+    "bankName": "邢台银行",
+    "shortName": "邢台银行",
+    "bank": "XTCCB",
+    "cardCode": "05541310"
+  },
+  "BDCCB": {
+    "bankName": "保定银行",
+    "shortName": "保定银行",
+    "bank": "BDCCB",
+    "cardCode": "05521340"
+  },
+  "CYCCB": {
+    "bankName": "朝阳银行",
+    "shortName": "朝阳银行",
+    "bank": "CYCCB",
+    "cardCode": "05492340"
+  },
+  "PDSB": {
+    "bankName": "平顶山银行",
+    "shortName": "平顶山银行",
+    "bank": "PDSB",
+    "cardCode": "05484950"
+  },
+  "PJCB": {
+    "bankName": "盘锦市商业银行",
+    "shortName": "盘锦市商业银行",
+    "bank": "PJCB",
+    "cardCode": "05442320"
+  },
+  "CACB": {
+    "bankName": "长安银行",
+    "shortName": "长安银行",
+    "bank": "CACB",
+    "cardCode": "05417900"
+  },
+  "JNCCB": {
+    "bankName": "济宁银行",
+    "shortName": "济宁银行",
+    "bank": "JNCCB",
+    "cardCode": "05374610"
+  },
+  "XCCB": {
+    "bankName": "许昌银行",
+    "shortName": "许昌银行",
+    "bank": "XCCB",
+    "cardCode": "05365030"
+  },
+  "ZGCB": {
+    "bankName": "自贡市商业银行",
+    "shortName": "自贡市商业银行",
+    "bank": "ZGCB",
+    "cardCode": "05326550"
+  },
+  "CZCB": {
+    "bankName": "浙江稠州商业银行",
+    "shortName": "浙江稠州商业银行",
+    "bank": "CZCB",
+    "cardCode": "05303380"
+  },
+  "SRCCB": {
+    "bankName": "上饶银行",
+    "shortName": "上饶银行",
+    "bank": "SRCCB",
+    "cardCode": "05264330"
+  },
+  "MTCB": {
+    "bankName": "浙江民泰商业银行",
+    "shortName": "浙江民泰商业银行",
+    "bank": "MTCB",
+    "cardCode": "05253450"
+  },
+  "GSCB": {
+    "bankName": "甘肃银行",
+    "shortName": "甘肃银行",
+    "bank": "GSCB",
+    "cardCode": "05238333"
+  },
+  "DZCB": {
+    "bankName": "德州银行",
+    "shortName": "德州银行",
+    "bank": "DZCB",
+    "cardCode": "05154680"
+  },
+  "CZCCB": {
+    "bankName": "长治市商业银行",
+    "shortName": "长治市商业银行",
+    "bank": "CZCCB",
+    "cardCode": "05121660"
+  },
+  "GZCB": {
+    "bankName": "贵州银行",
+    "shortName": "贵州银行",
+    "bank": "GZCB",
+    "cardCode": "05007020"
+  },
+  "TSCB": {
+    "bankName": "唐山市商业银行",
+    "shortName": "唐山市商业银行",
+    "bank": "TSCB",
+    "cardCode": "04991240"
+  },
+  "NCCB": {
+    "bankName": "南充市商业银行",
+    "shortName": "南充市商业银行",
+    "bank": "NCCB",
+    "cardCode": "04966730"
+  },
+  "GLCB": {
+    "bankName": "桂林银行",
+    "shortName": "桂林银行",
+    "bank": "GLCB",
+    "cardCode": "04916170"
+  },
+  "GNYCB": {
+    "bankName": "广东南粤银行",
+    "shortName": "广东南粤银行",
+    "bank": "GNYCB",
+    "cardCode": "04895910"
+  },
+  "DTSCB": {
+    "bankName": "大同市商业银行",
+    "shortName": "大同市商业银行",
+    "bank": "DTSCB",
+    "cardCode": "04871620"
+  },
+  "MYCB": {
+    "bankName": "绵阳市商业银行",
+    "shortName": "绵阳市商业银行",
+    "bank": "MYCB",
+    "cardCode": "04856590"
+  },
+  "BSCB": {
+    "bankName": "包商银行",
+    "shortName": "包商银行",
+    "bank": "BSCB",
+    "cardCode": "04791920"
+  },
+  "GXBCB": {
+    "bankName": "广西北部湾银行",
+    "shortName": "广西北部湾银行",
+    "bank": "GXBCB",
+    "cardCode": "04786110"
+  },
+  "CZB": {
+    "bankName": "沧州银行",
+    "shortName": "沧州银行",
+    "bank": "CZB",
+    "cardCode": "04761430"
+  },
+  "NMCB": {
+    "bankName": "内蒙古银行",
+    "shortName": "内蒙古银行",
+    "bank": "NMCB",
+    "cardCode": "04741910"
+  },
+  "JXCB": {
+    "bankName": "嘉兴银行",
+    "shortName": "嘉兴银行",
+    "bank": "JXCB",
+    "cardCode": "04703350"
+  },
+  "FXCB": {
+    "bankName": "阜新银行",
+    "shortName": "阜新银行",
+    "bank": "FXCB",
+    "cardCode": "04672290"
+  },
+  "YKCB": {
+    "bankName": "营口银行",
+    "shortName": "营口银行",
+    "bank": "YKCB",
+    "cardCode": "04652280"
+  },
+  "CSCB": {
+    "bankName": "长沙银行",
+    "shortName": "长沙银行",
+    "bank": "CSCB",
+    "cardCode": "04615510"
+  },
+  "QHCB": {
+    "bankName": "青海银行",
+    "shortName": "青海银行",
+    "bank": "QHCB",
+    "cardCode": "04588510"
+  },
+  "JJCB": {
+    "bankName": "九江银行",
+    "shortName": "九江银行",
+    "bank": "JJCB",
+    "cardCode": "04544240"
+  },
+  "JJCCB": {
+    "bankName": "晋商银行",
+    "shortName": "晋商银行",
+    "bank": "JJCCB",
+    "cardCode": "04491610"
+  },
+  "DDCB": {
+    "bankName": "丹东银行",
+    "shortName": "丹东银行",
+    "bank": "DDCB",
+    "cardCode": "04462260"
+  },
+  "XACB": {
+    "bankName": "西安银行",
+    "shortName": "西安银行",
+    "bank": "XACB",
+    "cardCode": "04447910"
+  },
+  "HCB": {
+    "bankName": "哈尔滨银行",
+    "shortName": "哈尔滨银行",
+    "bank": "HCB",
+    "cardCode": "04422610"
+  },
+  "JCB": {
+    "bankName": "锦州银行",
+    "shortName": "锦州银行",
+    "bank": "JCB",
+    "cardCode": "04392270"
+  },
+  "CRCB": {
+    "bankName": "珠海华润银行",
+    "shortName": "珠海华润银行",
+    "bank": "CRCB",
+    "cardCode": "04375850"
+  },
+  "TCCB": {
+    "bankName": "天津银行",
+    "shortName": "天津银行",
+    "bank": "TCCB",
+    "cardCode": "04341100"
+  },
+  "HLDB": {
+    "bankName": "葫芦岛银行",
+    "shortName": "葫芦岛银行",
+    "bank": "HLDB",
+    "cardCode": "04332350"
+  },
+  "SXCCB": {
+    "bankName": "绍兴银行",
+    "shortName": "绍兴银行",
+    "bank": "SXCCB",
+    "cardCode": "04283370"
+  },
+  "JHCCB": {
+    "bankName": "金华银行",
+    "shortName": "金华银行",
+    "bank": "JHCCB",
+    "cardCode": "04263380"
+  },
+  "DGCB": {
+    "bankName": "东莞银行",
+    "shortName": "东莞银行",
+    "bank": "DGCB",
+    "cardCode": "04256020"
+  },
+  "HZCB": {
+    "bankName": "杭州银行",
+    "shortName": "杭州银行",
+    "bank": "HZCB",
+    "cardCode": "04233310"
+  },
+  "DLCB": {
+    "bankName": "大连银行",
+    "shortName": "大连银行",
+    "bank": "DLCB",
+    "cardCode": "04202220"
+  }
+}

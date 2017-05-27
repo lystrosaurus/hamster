@@ -1,0 +1,4 @@
+rootProject.name = 'Hamster'
+include 'commons'
+include 'webapp'
+

@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  redis:
+    port: 6379
+  data:
+    mongodb:
+      database: test
+      host: localhost
+      password: test
+      username: test
+#      uri: mongodb://localhost/test
+logging:
+  file: E:/log/hamster.log

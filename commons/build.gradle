@@ -1,0 +1,8 @@
+jar {
+    baseName = 'hamster-commons'
+    version =  version
+}
+
+bootRepackage {
+    enabled = false
+}
