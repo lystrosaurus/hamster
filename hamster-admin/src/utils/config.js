@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'AntD Admin',
-  prefix: 'antdAdmin',
-  footerText: 'Ant Design Admin  © 2017 zuiidea',
+  name: 'Hamster Admin',
+  prefix: 'hamsterAdmin',
+  footerText: 'hamster Admin  © 2017 hamster',
   logo: '/logo.png',
   iconFontCSS: '/iconfont.css',
   iconFontJS: '/iconfont.js',
@@ -17,5 +17,6 @@ module.exports = {
     users: '/users',
     user: '/user/:id',
     dashboard: '/dashboard',
+    hamster: '/hamster',
   },
 }

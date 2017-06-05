@@ -9,7 +9,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * Created by opabinia on 2017/5/11.
@@ -21,19 +20,33 @@ public class WelcomeController {
 
   private static final Logger log = LoggerFactory.getLogger(WelcomeController.class);
 
-  @RequestMapping(value = "/", method = RequestMethod.GET)
-  @ApiOperation(value = "首页", response = String.class)
-  @ResponseBody
-  public String home() {
-    log.info("test log...");
-    return "Hello World";
-  }
+//  @RequestMapping(value = "/", method = RequestMethod.GET)
+//  @ApiOperation(value = "首页", response = String.class)
+//  @ResponseBody
+//  public String home() {
+//    log.info("test log...");
+//    return "Hello World";
+//  }
 
-  @RequestMapping(value = "/index", method = RequestMethod.GET)
+  @RequestMapping(value = "/", method = RequestMethod.GET)
+  @ApiOperation("首页")
   public String index(
-      @RequestParam(value = "name", required = false, defaultValue = "World") String name,
+      @RequestParam(value = "skin", required = false, defaultValue = "default") String skin,
       Model model) {
-    model.addAttribute("name", name);
+    model.addAttribute("skin", skin);
     return "index";
   }
+
+  @RequestMapping(value = "/menu", method = RequestMethod.GET)
+  @ApiOperation("菜单页面")
+  public String menu() {
+    return "menu";
+  }
+
+  @RequestMapping(value = "/main", method = RequestMethod.GET)
+  @ApiOperation("主窗口")
+  public String main() {
+    return "main";
+  }
+
 }

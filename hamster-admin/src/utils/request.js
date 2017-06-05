@@ -108,7 +108,7 @@ export default function request (options) {
       status = response.status
       msg = data.message || statusText
     } else {
-      status = 600
+      status = 600;
       msg = 'Network Error'
     }
     return { success: false, status, message: msg, ...otherData }

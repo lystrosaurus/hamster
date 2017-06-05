@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>menu</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<ul id="menu" class="ztree"></ul>
+<script type="text/javascript" th:src="@{/ztree/js/jquery.ztree.all.js}"></script>
+<script type="text/javascript" th:src="@{/hamster/menu.js}"></script>
+<script th:inline="javascript">
+  $(function () {
+    Menu.init();
+  });
+</script>
+</body>
+</html>

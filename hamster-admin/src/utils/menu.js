@@ -1,5 +1,11 @@
 module.exports = [
   {
+    id: 0,
+    icon: 'laptop',
+    name: 'Hamster',
+    router: '/hamster',
+  },
+  {
     id: 1,
     icon: 'laptop',
     name: 'Dashboard',

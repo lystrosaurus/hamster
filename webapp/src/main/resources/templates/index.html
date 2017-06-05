@@ -1,10 +1,26 @@
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Getting Started: Serving Web Content</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>hamster</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+  <link rel="stylesheet" th:href="@{/easyui/themes/{skin}/easyui.css(skin=${skin})}"/>
+  <link rel="stylesheet" th:href="@{/easyui/themes/icon.css}"/>
+
+  <link rel="stylesheet" th:href="@{/ztree/css/zTreeStyle/zTreeStyle.css}"/>
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css" />
 </head>
 <body>
-<p th:text="'Hello, ' + ${name} + '!'" />
+<div id="main">
+</div>
+<script type="text/javascript" th:src="@{/jquery/jquery.min.js}"></script>
+<script type="text/javascript" th:src="@{/easyui/jquery.easyui.min.js}"></script>
+<script type="text/javascript" th:src="@{/hamster/index.js}"></script>
+<script th:inline="javascript">
+  $(function () {
+    Index.init();
+  });
+</script>
 </body>
 </html>

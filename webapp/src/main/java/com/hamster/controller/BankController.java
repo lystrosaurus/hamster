@@ -16,6 +16,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
@@ -37,7 +38,7 @@ public class BankController {
    * @return 银行卡信息
    */
   @RequestMapping(
-      value = "/query/{cardNo}",
+      value = "/query",
       method = RequestMethod.GET,
       produces = "application/json")
   @ApiOperation(value = "查询银行信息")
@@ -51,7 +52,7 @@ public class BankController {
   public Map<String, Object> query(
       @ApiParam(name = "cardNo", value = "银行卡号",
       defaultValue = "6228481698729890079", example = "6228481698729890079")
-      @PathVariable String cardNo) {
+      @RequestParam String cardNo) {
     RestTemplate restTemplate = new RestTemplate();
     // 只是测试
     Map result = new HashMap();

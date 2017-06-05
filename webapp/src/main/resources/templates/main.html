@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>hamster</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<label>参数名：</label><input name="key"/>
+<label>参数值：</label><input name="value"/>
+<label>功能：</label>
+<input id="cc" name="api"/>
+<a id="search" href="#" class="easyui-linkbutton" data-options="iconCls:'icon-search'">search</a>
+<div id="content">
+</div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script type="text/javascript" th:src="@{/hamster/main.js}"></script>
+<script th:inline="javascript">
+  $(function () {
+    const m = new Main();
+    m.init();
+  });
+</script>
+</body>
+</html>
